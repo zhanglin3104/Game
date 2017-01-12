@@ -1,0 +1,285 @@
+{
+	"groups": [
+		{
+			"keys": "bgImage,egretIcon,1_png,11_png,12_png,13_png,14_png,15_png,16_png,2_png,3_png,4_png,5_png,6_png,tag1_png,tag2_png,tag3_png,tag4_png,bg2_jpg,对话框_png,接受_png,取消_png,人物摁扭_png,任务panel_png,叹号_png,完成_png,问号黄_png,问号灰_png,hero摁扭_png,EuqP_png,heroP_jpg,npc0_01_png,npc1__01_png,宝石_25_png,宝石_27_png,宝石_30_png,武器_03_png,武器_07_png,武器_11_png,武器_15_png,武器_17_png,盔甲_03_png,盔甲_06_png,盔甲_11_png,盔甲_14_png,Mon_01_png,Mon_02_png,Mon_03_png,Atk4_png,Atk1_png,Atk3_png,Atk2_png,Lvup_png,getpower_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bgImage"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egretIcon"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description"
+		},
+		{
+			"url": "assets/images/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "assets/images/11.png",
+			"type": "image",
+			"name": "11_png"
+		},
+		{
+			"url": "assets/images/12.png",
+			"type": "image",
+			"name": "12_png"
+		},
+		{
+			"url": "assets/images/13.png",
+			"type": "image",
+			"name": "13_png"
+		},
+		{
+			"url": "assets/images/14.png",
+			"type": "image",
+			"name": "14_png"
+		},
+		{
+			"url": "assets/images/15.png",
+			"type": "image",
+			"name": "15_png"
+		},
+		{
+			"url": "assets/images/16.png",
+			"type": "image",
+			"name": "16_png"
+		},
+		{
+			"url": "assets/images/2.png",
+			"type": "image",
+			"name": "2_png"
+		},
+		{
+			"url": "assets/images/3.png",
+			"type": "image",
+			"name": "3_png"
+		},
+		{
+			"url": "assets/images/4.png",
+			"type": "image",
+			"name": "4_png"
+		},
+		{
+			"url": "assets/images/5.png",
+			"type": "image",
+			"name": "5_png"
+		},
+		{
+			"url": "assets/images/6.png",
+			"type": "image",
+			"name": "6_png"
+		},
+		{
+			"url": "assets/tag1.png",
+			"type": "image",
+			"name": "tag1_png"
+		},
+		{
+			"url": "assets/tag2.png",
+			"type": "image",
+			"name": "tag2_png"
+		},
+		{
+			"url": "assets/tag3.png",
+			"type": "image",
+			"name": "tag3_png"
+		},
+		{
+			"url": "assets/tag4.png",
+			"type": "image",
+			"name": "tag4_png"
+		},
+		{
+			"url": "assets/bg2.jpg",
+			"type": "image",
+			"name": "bg2_jpg"
+		},
+		{
+			"url": "assets/Task/task/hero摁扭.png",
+			"type": "image",
+			"name": "hero摁扭_png"
+		},
+		{
+			"url": "assets/Task/task/人物摁扭.png",
+			"type": "image",
+			"name": "人物摁扭_png"
+		},
+		{
+			"url": "assets/Task/task/任务panel.png",
+			"type": "image",
+			"name": "任务panel_png"
+		},
+		{
+			"url": "assets/Task/task/取消.png",
+			"type": "image",
+			"name": "取消_png"
+		},
+		{
+			"url": "assets/Task/task/叹号.png",
+			"type": "image",
+			"name": "叹号_png"
+		},
+		{
+			"url": "assets/Task/task/完成.png",
+			"type": "image",
+			"name": "完成_png"
+		},
+		{
+			"url": "assets/Task/task/对话框.png",
+			"type": "image",
+			"name": "对话框_png"
+		},
+		{
+			"url": "assets/Task/task/接受.png",
+			"type": "image",
+			"name": "接受_png"
+		},
+		{
+			"url": "assets/Task/task/问号灰.png",
+			"type": "image",
+			"name": "问号灰_png"
+		},
+		{
+			"url": "assets/Task/task/问号黄.png",
+			"type": "image",
+			"name": "问号黄_png"
+		},
+		{
+			"url": "assets/EuqP.png",
+			"type": "image",
+			"name": "EuqP_png"
+		},
+		{
+			"url": "assets/heroP.jpg",
+			"type": "image",
+			"name": "heroP_jpg"
+		},
+		{
+			"url": "assets/Task/NPC/images/npc0_01.png",
+			"type": "image",
+			"name": "npc0_01_png"
+		},
+		{
+			"url": "assets/Task/NPC/images/npc1__01.png",
+			"type": "image",
+			"name": "npc1__01_png"
+		},
+		{
+			"url": "assets/images/宝石_25.png",
+			"type": "image",
+			"name": "宝石_25_png"
+		},
+		{
+			"url": "assets/images/宝石_27.png",
+			"type": "image",
+			"name": "宝石_27_png"
+		},
+		{
+			"url": "assets/images/宝石_30.png",
+			"type": "image",
+			"name": "宝石_30_png"
+		},
+		{
+			"url": "assets/images/武器_03.png",
+			"type": "image",
+			"name": "武器_03_png"
+		},
+		{
+			"url": "assets/images/武器_07.png",
+			"type": "image",
+			"name": "武器_07_png"
+		},
+		{
+			"url": "assets/images/武器_11.png",
+			"type": "image",
+			"name": "武器_11_png"
+		},
+		{
+			"url": "assets/images/武器_15.png",
+			"type": "image",
+			"name": "武器_15_png"
+		},
+		{
+			"url": "assets/images/武器_17.png",
+			"type": "image",
+			"name": "武器_17_png"
+		},
+		{
+			"url": "assets/images/盔甲_03.png",
+			"type": "image",
+			"name": "盔甲_03_png"
+		},
+		{
+			"url": "assets/images/盔甲_06.png",
+			"type": "image",
+			"name": "盔甲_06_png"
+		},
+		{
+			"url": "assets/images/盔甲_11.png",
+			"type": "image",
+			"name": "盔甲_11_png"
+		},
+		{
+			"url": "assets/images/盔甲_14.png",
+			"type": "image",
+			"name": "盔甲_14_png"
+		},
+		{
+			"name": "Mon_01_png",
+			"type": "image",
+			"url": "assets/images/Mon_01.png"
+		},
+		{
+			"name": "Mon_02_png",
+			"type": "image",
+			"url": "assets/images/Mon_02.png"
+		},
+		{
+			"name": "Mon_03_png",
+			"type": "image",
+			"url": "assets/images/Mon_03.png"
+		},
+		{
+			"name": "Atk4_png",
+			"type": "image",
+			"url": "assets/images/Atk4.png"
+		},
+		{
+			"name": "Atk1_png",
+			"type": "image",
+			"url": "assets/images/Atk1.png"
+		},
+		{
+			"name": "Atk3_png",
+			"type": "image",
+			"url": "assets/images/Atk3.png"
+		},
+		{
+			"name": "Atk2_png",
+			"type": "image",
+			"url": "assets/images/Atk2.png"
+		},
+		{
+			"name": "Lvup_png",
+			"type": "image",
+			"url": "assets/images/Lvup.png"
+		},
+		{
+			"name": "getpower_png",
+			"type": "image",
+			"url": "assets/images/getpower.png"
+		}
+	]
+}
